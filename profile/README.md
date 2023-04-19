@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-This Github organization website is for the course **Math 5650/6650** at Auburn University. 
-
-Current semester: ``Fall 2023``
+This Github organization website is for the course **Math 5650/6650** at Auburn University of  ``Fall 2023``. 
 
 <!--
 
