@@ -17,6 +17,10 @@ The course will emphasize both theories and implementation of the common optimiz
 - Coding projects
 - Basic theory problems
 
+### Final Group Projects:
+
+- TBA
+
 <!--
 
 **Here are some ideas to get you started:**
