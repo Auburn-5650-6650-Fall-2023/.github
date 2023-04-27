@@ -12,6 +12,10 @@ The course will emphasize both theories and implementation of the common optimiz
 - :heavy_check_mark: Topics in Linear Algebra (2660)
 
 
+### Bi-weekly submissions: 
+
+- Coding projects
+- Basic theory problems
 
 <!--
 
