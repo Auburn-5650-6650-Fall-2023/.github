@@ -17,7 +17,7 @@ The course will emphasize both theories and implementation of the common optimiz
 - Basic theory problems
 - Coding projects
 
-### Final Group Projects (4 weeks):
+### Final Group Projects:
 
 - TBA
 
