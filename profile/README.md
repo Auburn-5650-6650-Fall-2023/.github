@@ -14,10 +14,10 @@ The course will emphasize both theories and implementation of the common optimiz
 
 ### Bi-weekly submissions: 
 
-- Coding projects
 - Basic theory problems
+- Coding projects
 
-### Final Group Projects:
+### Final Group Projects (4 weeks):
 
 - TBA
 
