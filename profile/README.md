@@ -1,25 +1,36 @@
-## Welcome! 👋
+# Welcome! 👋
 
 This Github organization website is for the course **Math 5650/6650** at Auburn University of  ``Fall 2023``. 
 
-The course will emphasize both theories and implementation of the common optimization methods. The theory part follows the textbook :closed_book: ``Numerical Optimization`` by Jorge Nocedal and Stephen Wright. We probably will not cover the ``linear programming`` due to the limitation on course hours.  
+The course will emphasize both theories and implementation of the common optimization methods. The theory part follows the textbook
 
+- :closed_book: ``Numerical Optimization`` by Jorge Nocedal and Stephen Wright. We probably will not cover the ``linear programming`` due to the limitation on course hours.  
+- :closed_book: ``Convex Optimization`` by by Lieven Vandenberghe and Stephen P. Boyd. You may download the book from https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf. We may use this book for references. 
 
-
-### Prerequisite: 
+## Prerequisite: 
 
 - :heavy_check_mark: Linear Differential Equations (2650)
 - :heavy_check_mark: Topics in Linear Algebra (2660)
+- :heavy_check_mark: Any programming language for computing. ``Python``, ``Matlab``, ``Julia`` are highly preferred. 
 
+## Assignments:
 
 ### Bi-weekly submissions: 
 
-- Basic theory problems
-- Coding projects
+- :pencil2: Basic theory exercises 
+- :computer: Optimization projects 
 
 ### Final Group Projects:
 
-- TBA
+The final group project evaluation consists of two parts. 
+
+- :notebook_with_decorative_cover: Project Report (LaTEX mandatory, template will be provided)
+- :microphone: Presentation (15 minutes + 5 minutes Q&A)
+
+### Grades
+
+- Bi-weekly submissions: 70%
+- Final Project: 30% 
 
 <!--
 
