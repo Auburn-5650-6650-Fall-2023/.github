@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-This website is for the course **Math 5650/6650** at Auburn University of  ``Fall 2023``. 
+This website is for the course **Math 5650/6650** at Auburn University of **Fall 2023**. 
 
 The course will emphasize both theories and implementation of the common optimization methods. The theory part follows the textbook
 
