@@ -32,6 +32,11 @@ The final group project evaluation consists of two parts.
 - Bi-weekly submissions: 70%
 - Final Project: 30% 
 
+## Discussion
+
+- General discussion: Please read the discussion (https://github.com/orgs/math-5650-6650/discussions) for more information about the class. If you have question about the information, simply start a new discussion. 
+- Technical discussion: We will tentatively use slack or discord for group chatting and direct messages instead of posting annoucements through canvas. 
+
 <!--
 
 **Here are some ideas to get you started:**
