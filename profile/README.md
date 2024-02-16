@@ -2,8 +2,8 @@
 
 This website hosts the materials for courses in **computational mathematics** at Auburn University. 
 
-* [Numerical Analysis I (5630/6630)](https://auburn-comp-math.github.io/math-5630-6630)
-* [Optimization Theory  (5650/6650)](https://auburn-comp-math.github.io/math-5650-6650)
+* [Numerical Analysis I (5630/6630)](https://github.com/auburn-comp-math/math-5630-6630)
+* [Optimization Theory  (5650/6650)](https://github.com/auburn-comp-math/math-5650-6650)
 
 <!--
 
